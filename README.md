@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamstefanstoyanov
-- 👀 I’m interested in ...JavaScript
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...JavaScript
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on JavaScript.
 - 📫 How to reach me ...skstoyanov88@gmail.com
 
 <!---
