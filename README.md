@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan Stoyanov;
-- 👀 I’m interested in JavaScript;
-- 🌱 I’m currently learning JavaScript;
+- 👀 I’m interested in JavaScript, Typescript, Angular;
+- 🌱 I’m currently learning Typescript & Angular;
 - 💞️ I’m looking to collaborate on JavaScript;
-- 📫 How to reach me ...skstoyanov88@gmail.com;
+- 📫 How to reach me ... skstoyanov88@gmail.com;
