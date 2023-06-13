@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stefan Stoyanov;
-- 👀 I’m interested in JavaScript, Typescript, Angular;
+- 👀 I’m interested in JavaScript, Typescript, Angular, CSS, HTML;
 - 💞️ I’m looking to collaborate on JavaScript;
 - 📫 How to reach me ... skstoyanov88@gmail.com;
