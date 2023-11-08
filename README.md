@@ -13,7 +13,9 @@
 - HTML/CSS
 - React.js
 - Node.js
-- Git & GitHub
+- GitHub
+- MongoDb
+- Postman
 
 🔭 I'm always looking to collaborate on interesting projects and learn from experienced developers. If you have any cool project ideas or just want to chat about coding, feel free to reach out.
 
