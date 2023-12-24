@@ -10,9 +10,11 @@
 🛠️ My current tech stack includes:
 
 - JavaScript
+- TypeScript
 - HTML/CSS
 - React.js
 - Node.js
+- Next Js
 - GitHub
 - MongoDb
 - Postman
