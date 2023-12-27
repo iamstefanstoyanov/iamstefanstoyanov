@@ -2,9 +2,8 @@
 
 🌟 Here's a bit about me:
 
-- 💻 I'm currently studying JavaScript and its various libraries and frameworks.
 - 🚀 I love creating web applications, solving problems, and bringing ideas to life.
-- 📚 I'm constantly expanding my knowledge by taking courses, and participating in coding challenges.
+- 📚 I'm constantly expanding my knowledge by taking courses.
 - 🌐 You can find some of my projects and experiments here on GitHub.
 
 🛠️ My current tech stack includes:
@@ -12,10 +11,10 @@
 - JavaScript
 - TypeScript
 - HTML/CSS
-- React.js
-- Node.js
-- Next Js
-- GitHub
+- React JS
+- Node JS
+- Next JS
+- Firebase
 - MongoDb
 - Postman
 
