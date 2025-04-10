@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <h1 align="center">
-  hi there
+  hi there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Stefan
 </h1>
     
-I'm Stefan Stoyanov
-
 I'm a **Full-Stack Web Developer** working in the fast-paced world of **online gaming and casinos**. I specialize in building high-performance, visually stunning web applications using modern tools and frameworks.
 
 🎮 Industry Focus
