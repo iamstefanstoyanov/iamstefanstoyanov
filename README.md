@@ -10,13 +10,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     
-I'm Stefan Stoyanov, a passionate learner and enthusiast in the world of Front-End web development. I'm on a journey to become a proficient Front-End web developer and I'm excited to share my progress with the open-source community.
+👋 Hey, I'm Stefan Stoyanov
 
-🌟 Here's a bit about me:
+I'm a **Full-Stack Web Developer** working in the fast-paced world of **online gaming and casinos**. I specialize in building high-performance, visually stunning web applications using modern tools and frameworks.
 
-- 🚀 I love creating web applications, solving problems, and bringing ideas to life.
-- 📚 I'm constantly expanding my knowledge by taking courses.
-- 🌐 You can find some of my projects and experiments here on GitHub.
+🎮 Industry Focus
+
+Working in online gaming has sharpened my skills in creating dynamic, secure, and real-time applications. I enjoy crafting user experiences that are as functional as they are visually immersive.
+
+🌱 What I'm Up To
+
+- Building scalable front-ends with **Next.js** and **Tailwind CSS**
+- Deepening my expertise in **TypeScript** and component-driven design
+- Experimenting with back-end architecture and authentication systems
+- Learning new design patterns to improve performance and maintainability
+
+🌍 Learning
+
+- I’m constantly learning—new tools, new techniques, and better practices from [Laracasts](https://laracasts.com/)
 
 🛠️ My current tech stack includes:
 
@@ -29,16 +40,18 @@ I'm Stefan Stoyanov, a passionate learner and enthusiast in the world of Front-E
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstefanstoyanov&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+
+> <p><strong><em>“The only way to do great work is to love what you do.” – Steve Jobs</em></strong></p>
 
 🔭 I'm always looking to collaborate on interesting projects and learn from experienced developers. If you have any cool project ideas or just want to chat about coding, feel free to reach out.
 
