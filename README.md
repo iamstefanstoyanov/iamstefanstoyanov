@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     
-👋 Hey, I'm Stefan Stoyanov
+I'm Stefan Stoyanov
 
 I'm a **Full-Stack Web Developer** working in the fast-paced world of **online gaming and casinos**. I specialize in building high-performance, visually stunning web applications using modern tools and frameworks.
 
