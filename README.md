@@ -48,8 +48,6 @@ Working in online gaming has sharpened my skills in creating dynamic, secure, an
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstefanstoyanov&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
-
 > <p><strong><em>“The only way to do great work is to love what you do.” – Steve Jobs</em></strong></p>
 
 🔭 I'm always looking to collaborate on interesting projects and learn from experienced developers. If you have any cool project ideas or just want to chat about coding, feel free to reach out.
