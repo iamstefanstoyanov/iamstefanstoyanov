@@ -53,6 +53,9 @@ GitHub, GitLab, Docker, Postman, Webpack
 
 </div>
 
+<b>Development Environment:</b><br/>
+Linux (WSL), Bash, NPM, PNPM  
+
 ## 📂 Featured Projects
 
 ### 🚗 DV Auto Repairs Platform
