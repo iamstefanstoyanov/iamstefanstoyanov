@@ -1,57 +1,142 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/stefanstoyanov1988/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
 <h1 align="center">
-  hi there 
+  Hi there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Stefan
 </h1>
-    
-I'm a **Full-Stack Web Developer** working in the fast-paced world of **online gaming and casinos**. I specialize in building high-performance, visually stunning web applications using modern tools and frameworks.
+---
 
-🎮 Industry Focus
+## 💻 Front-End Developer | React • Next.js • TypeScript
+Front-End Developer with 2+ years of professional experience building scalable, high-performance web applications in the **online gaming industry**.
+I specialize in developing **real-time, data-driven applications** using modern technologies like React, Next.js, and TypeScript, with a strong focus on performance, maintainability, and clean architecture.
+---
 
-Working in online gaming has sharpened my skills in creating dynamic, secure, and real-time applications. I enjoy crafting user experiences that are as functional as they are visually immersive.
+## 🚀 Professional Experience
+- Worked on **production-level casino platforms** with high traffic and real-time interactions  
+- Built and maintained features using **Next.js, React, and TypeScript**  
+- Integrated **REST APIs and WebSockets** for real-time data updates  
+- Managed complex state using **Redux and modern patterns**  
+- Wrote **unit tests with Jest** to ensure code reliability  
+- Collaborated in **Agile teams** using GitLab, CI/CD, and code reviews  
+- Improved performance and optimized rendering in large-scale applications  
+---
 
-🌱 What I'm Up To
+## 🛠️ Tech Stack
+### Frontend
+JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, SCSS, Tailwind CSS  
+### State Management
+Redux, Context API  
+### Backend & APIs
+Node.js, REST APIs, WebSockets, Firebase  
+### Testing
+Jest, Unit Testing  
+### Tools
+Git (GitHub, GitLab), Docker, Postman, NPM, Webpack  
+---
 
-- Building scalable front-ends with **Next.js** and **Tailwind CSS**
-- Deepening my expertise in **TypeScript** and component-driven design
-- Experimenting with back-end architecture and authentication systems
-- Learning new design patterns to improve performance and maintainability
+## 📂 Featured Projects
+---
 
-🌍 Learning
+## 🚗 DV Auto Repairs Platform
+Production-ready, SEO-optimized single-page application built for an auto repair business, focused on performance, scalability, and modern frontend architecture.
+### 🚀 Key Highlights
+- Built with **Next.js (App Router)** using a hybrid rendering approach (Server & Client Components)
+- Implemented **type-safe internationalization (i18n)** without external libraries
+- Designed a **fully responsive, mobile-first UI** with smooth navigation and dynamic layout behavior
+- Optimized for **SEO and discoverability** (metadata, Open Graph, sitemap, robots.txt)
+- Applied **security best practices** via HTTP headers (HSTS, X-Frame-Options, Referrer Policy)
+- Integrated **CI/CD pipeline** with GitHub Actions and automated deployment via Vercel
+- Implemented **unit and component testing** using Vitest and React Testing Library
+---
+### 🧠 Architecture & Engineering
+- Component-driven architecture with reusable UI elements
+- Clear separation between static and interactive components
+- Custom hooks for device detection, navigation tracking, and translations
+- Context-based state management for language switching
+- Lightweight custom SVG icon system (no external dependencies)
+---
+### ⚙️ Tech Stack
+**Frontend:**  
+Next.js 16, React 19, TypeScript 5  
+**Styling:**  
+Tailwind CSS 4, clsx, tailwind-merge  
+**Testing:**  
+Vitest, @testing-library/react  
+**Tooling:**  
+ESLint, Prettier, Husky, lint-staged  
+**CI/CD & Deployment:**  
+GitHub Actions, Vercel  
+---
+### 🌍 Live Demo  
+https://dvauto-repairs.vercel.app/
+---
+### 🎯 What This Project Demonstrates
+- Building **production-grade frontend applications**
+- Working with **modern React architecture (App Router)**
+- Handling **performance, SEO, and accessibility concerns**
+- Writing **clean, maintainable, and testable code**
+- Setting up **complete development workflow (CI/CD, linting, testing)**
+---
 
-- I’m constantly learning—new tools, new techniques, and better practices from [Laracasts](https://laracasts.com/)
+## 📊 Financial Dashboard
+A simplified financial dashboard application focused on managing invoices and visualizing business data.
+### 🚀 Features
+- Secure authentication with protected routes  
+- Dashboard overview page with structured data presentation  
+- Full CRUD functionality for invoice management  
+- Clean and responsive user interface  
+- Modular and reusable component structure  
+---
+### 🧠 Architecture
+- Built with Next.js and TypeScript  
+- Component-driven architecture for scalability  
+- Separation of concerns between UI, logic, and data handling  
+- Focus on maintainable and readable code  
+---
+### ⚙️ Tech Stack
+- Next.js  
+- React  
+- TypeScript  
+- CSS / Tailwind (ако ползваш)  
+---
+### 🔑 Demo Access
+- Email: user@nextmail.com  
+- Password: 123456  
+---
+### 🎯 What This Project Demonstrates
+- Building data-driven applications  
+- Handling CRUD operations and user flows  
+- Structuring scalable frontend architecture  
+- Working with authentication and protected routes
+---
 
-🛠️ My current tech stack includes:
+### 💰 Finance Logger (TypeScript)
+- Financial tracking application  
+- Demonstrates OOP and TypeScript fundamentals  
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  
-</div>
+## 🌍 Currently
+- Working remotely as a Front-End Developer  
+- Relocating to **Bulgaria (May 2026)**  
+- Open to **Front-End / JavaScript Developer opportunities**  
+---
 
-> <p><strong><em>“The only way to do great work is to love what you do.” – Steve Jobs</em></strong></p>
+## 📫 Contact Me
+- 📧 Email: skstoyanov88@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/stefanstoyanov1988  
+---
 
-🔭 I'm always looking to collaborate on interesting projects and learn from experienced developers. If you have any cool project ideas or just want to chat about coding, feel free to reach out.
+## ⚡ Fun Fact
+I enjoy building fast, responsive, and real-time applications — especially in environments where performance and user experience really matter.
+---
 
-📫 You can contact me via skstoyanov88@gmail.com or connect with me on www.linkedin.com/in/stefanstoyanov1988 if you'd like to get in touch.
-
-🌐 Thanks for stopping by my GitHub! Let's learn and code together. 🚀
+> “The only way to do great work is to love what you do.” – Steve Jobs
