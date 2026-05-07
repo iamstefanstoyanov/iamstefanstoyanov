@@ -99,8 +99,6 @@ TypeScript-based application for tracking financial transactions and practicing 
 
 <div style="font-size:16px;">
 
-- Working remotely as Front-End Developer  
-- Relocating to <b>Bulgaria (May 2026)</b>  
 - Open to Front-End / JavaScript roles  
 
 </div>
