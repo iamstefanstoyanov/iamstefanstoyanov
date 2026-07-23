@@ -58,6 +58,20 @@ Linux (WSL), Bash, NPM, PNPM
 
 ## 📂 Featured Projects
 
+### 🤖 DevFlow AI &nbsp; <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat"/>
+<p style="font-size:16px;">
+AI-powered project management for developers. Connect a GitHub repo and turn its issues, commits, and PRs into sprint plans, task boards, and smart AI summaries.
+</p>
+<b>Highlights:</b>
+- Next.js 16 (App Router) + React 19 + TypeScript
+- Auth.js v5 GitHub OAuth (Prisma adapter, edge-safe route protection)
+- GitHub integration via Octokit — import a repo's issues & commits
+- Per-project dashboard for imported issues & commits
+- Prisma ORM + Neon Postgres
+- Google Gemini for structured sprint planning (in progress)
+- Tailwind CSS v4 + shadcn/ui
+🔗 https://github.com/iamstefanstoyanov/DevFlow-AI
+
 ### 🚗 DV Auto Repairs Platform
 
 <p style="font-size:16px;">
