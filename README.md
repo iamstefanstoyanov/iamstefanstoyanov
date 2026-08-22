@@ -72,7 +72,7 @@ AI-powered project management for developers. Connect a GitHub repo and turn its
 - Tailwind CSS v4 + shadcn/ui
 🔗 https://github.com/iamstefanstoyanov/DevFlow-AI
 
-### 🚗 DV Auto Repairs Platform
+### 🚗 Auto Repairs Platform
 
 <p style="font-size:16px;">
 Production-ready, SEO-optimized Next.js application focused on performance and modern frontend architecture.
