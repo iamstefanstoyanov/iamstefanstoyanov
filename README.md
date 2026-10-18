@@ -7,127 +7,158 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+ <div align="center">
 
-<h2 align="center" style="margin-top: 10px;">
-  Hi there 👋 I'm Stefan
-</h2>
+# Stefan Stoyanov
 
-<p align="left" margin: auto; font-size: 16px;">
-Front-End Developer with 2+ years of professional experience building scalable, high-performance web applications in the <b>online gaming industry</b>.
-<br/><br/>
-Specialized in <b>real-time, data-driven applications</b> using React, Next.js, and TypeScript, with focus on performance, maintainability, and clean architecture.
-</p>
+### Full-Stack JavaScript Developer
 
-## 🚀 Professional Experience
+**React · Next.js · TypeScript · Node.js**
 
-<div style="font-size:16px;">
+Building production web applications, multi-tenant platforms, and real-time user experiences.
 
-- Production experience on <b>high-traffic casino platforms</b>  
-- Built features with <b>React, Next.js, TypeScript</b>  
-- Integrated <b>REST APIs & WebSockets</b> (real-time data)  
-- State management with <b>Redux</b>  
-- Unit testing with <b>Jest</b>  
-- Agile workflow, GitLab, CI/CD  
-- Performance optimization & rendering improvements  
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div style="font-size:16px;">
-
-<b>Frontend:</b><br/>
-JavaScript, TypeScript, React, Next.js, HTML, CSS, SCSS, Tailwind  
-
-<b>State Management:</b><br/>
-Redux, Context API  
-
-<b>Backend & APIs:</b><br/>
-Node.js, REST APIs, WebSockets, Firebase  
-
-<b>Testing:</b><br/>
-Jest  
-
-<b>Tools:</b><br/>
-GitHub, GitLab, Docker, Postman, Webpack  
-
-</div>
-
-<b>Development Environment:</b><br/>
-Linux (WSL), Bash, NPM, PNPM  
-
-## 📂 Featured Projects
-
-### 🤖 DevFlow AI &nbsp; <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat"/>
-<p style="font-size:16px;">
-AI-powered project management for developers. Connect a GitHub repo and turn its issues, commits, and PRs into sprint plans, task boards, and smart AI summaries.
-</p>
-<b>Highlights:</b>
-- Next.js 16 (App Router) + React 19 + TypeScript
-- Auth.js v5 GitHub OAuth (Prisma adapter, edge-safe route protection)
-- GitHub integration via Octokit — import a repo's issues & commits
-- Per-project dashboard for imported issues & commits
-- Prisma ORM + Neon Postgres
-- Google Gemini for structured sprint planning (in progress)
-- Tailwind CSS v4 + shadcn/ui
-🔗 https://github.com/iamstefanstoyanov/DevFlow-AI
-
-### 🚗 Auto Repairs Platform
-
-<p style="font-size:16px;">
-Production-ready, SEO-optimized Next.js application focused on performance and modern frontend architecture.
-</p>
-
-<b>Highlights:</b>
-- App Router (Server & Client Components)
-- Custom type-safe i18n (no external libs)
-- SEO optimization (metadata, sitemap, OG tags)
-- Security headers (HSTS, X-Frame, etc.)
-- CI/CD with GitHub Actions + Vercel
-- Testing with Vitest
-
-🔗 https://dvauto-repairs.vercel.app/
-
-### 📊 Financial Dashboard
-
-<p style="font-size:16px;">
-Data-driven dashboard application for managing invoices and financial workflows.
-</p>
-
-<b>Features:</b>
-- Authentication & protected routes  
-- Invoice CRUD operations  
-- Modular architecture  
-- Clean UI & structured data flow  
-
-🔑 Demo:  
-user@nextmail.com / 123456  
-
-### 💰 Finance Logger
-
-<p style="font-size:16px;">
-TypeScript-based application for tracking financial transactions and practicing OOP patterns.
-</p>
-
-## 🌍 Currently
-
-<div style="font-size:16px;">
-
-- Open to Front-End / JavaScript roles  
-
-</div>
-
-## 📫 Contact
-
-<div style="font-size:16px;">
-
-📧 skstoyanov88@gmail.com  
-🔗 <a href="https://www.linkedin.com/in/stefanstoyanov1988">LinkedIn Profile</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/stefanstoyanov1988)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skstoyanov88@gmail.com)
 
 </div>
 
 ---
 
-<p align="center" style="margin-top:20px; font-size:14px;">
-<i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
-</p>
+## 👨‍💻 About Me
+
+I'm a JavaScript developer with **3+ years of professional experience** working on production applications in the online gaming industry.
+
+My work focuses on frontend architecture, API integration, real-time data, and reliable application flows. I also work across the backend boundary, including BFF patterns, authentication, and server-side rendering.
+
+- ⚙️ Developing with **React, Next.js, TypeScript, and Node.js**
+- 🏗️ Working with **multi-tenant architecture** and reusable components
+- 🔌 Integrating REST APIs and WebSockets
+- 🔐 Implementing authentication, CSRF protection, and token refresh flows
+- 🧪 Writing tests and improving application reliability
+- 🤖 Exploring AI-assisted development and developer tooling
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=222)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### State Management & Architecture
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat)
+![SSR](https://img.shields.io/badge/SSR-444444?style=flat)
+![Micro Frontends](https://img.shields.io/badge/Micro--Frontends-6C47FF?style=flat)
+
+### Testing & Tools
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=222)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 DevFlow AI
+
+AI-assisted project management for developers, connecting GitHub activity with project planning.
+
+**Built with:** Next.js 16, React 19, TypeScript, Prisma, PostgreSQL
+
+- GitHub OAuth and repository integration
+- Issues and commits dashboard
+- AI-assisted sprint planning *(in progress)*
+
+[**View Repository →**](https://github.com/iamstefanstoyanov/DevFlow-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Auto Repairs Platform
+
+A multilingual website focused on SEO, performance, and modern Next.js architecture.
+
+**Built with:** Next.js 16, React 19, TypeScript, Tailwind CSS
+
+- Server and Client Components
+- Custom English/Bulgarian i18n
+- SEO metadata and security headers
+- Vitest and GitHub Actions CI/CD
+
+[**View Live Demo →**](https://dvauto-repairs.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Financial Dashboard
+
+A dashboard project for managing invoices and financial workflows.
+
+- Authentication and protected routes
+- Invoice CRUD operations
+- Modular component architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Finance Logger
+
+A TypeScript application for tracking financial transactions.
+
+- Object-oriented programming
+- Structured transaction data
+- TypeScript fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamstefanstoyanov&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamstefanstoyanov&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to Front-End, JavaScript, and Full-Stack Developer opportunities.**
+
+*Always learning, building, and improving.*
+
+</div>
