@@ -1,13 +1,7 @@
 <div align="center">
-  <img src="https://github.com/iamstefanstoyanov/iamstefanstoyanov/blob/main/Varna%20Seaside%20Coder%E2%80%99s%20Coffee%20Break.png" width="full"/>
+  <img src="https://github.com/iamstefanstoyanov/iamstefanstoyanov/blob/main/Varna%20Seaside%20Coder%E2%80%99s%20Coffee%20Break.png" width="75%"/>
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/stefanstoyanov1988/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
- <div align="center">
+<div align="center">
 
 # Stefan Stoyanov
 
