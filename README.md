@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="160"/>
+  <img src="https://github.com/iamstefanstoyanov/iamstefanstoyanov/blob/main/Varna%20Seaside%20Coder%E2%80%99s%20Coffee%20Break.png" width="250"/>
 </div>
 
 <div align="center" style="margin-top: 10px;">
