@@ -3,8 +3,6 @@
 </div>
 <div align="center">
 
-# Stefan Stoyanov
-
 ### Full-Stack JavaScript Developer
 
 **React · Next.js · TypeScript · Node.js**
